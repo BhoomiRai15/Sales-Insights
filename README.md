@@ -39,11 +39,14 @@ CREATE TABLE date (
 
 ## 📊 Key Dashboard Features
 
-- Sales Trends Over Time  
-- Geographic/Regional Sales Performance  
-- Customer Type Comparison (Brick & Mortar vs E-Commerce)  
-- Order Volumes, Revenue, and Profitability KPIs  
-- Interactive Filters (by month, customer type, year)
+- Revenue Trends Over Time using **Line Charts**
+- Sales Quantity Trends using **Line Charts**
+- Revenue by Markets using **Bar Charts**
+- Sales Quantity by Markets using **Bar Charts**
+- Top 5 Customers by Revenue using **Horizontal Bar Charts**
+- Top 5 Products by Revenue using **Horizontal Bar Charts**
+- Monthly and Yearly Revenue Comparison using **Line and Bar Charts**
+- Time-based Filtering by **Year** and **Month**
 
 ---
 
